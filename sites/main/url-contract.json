@@ -6,12 +6,6 @@
     "why": "built page"
   },
   {
-    "path": "/about",
-    "expect": 200,
-    "kind": "page",
-    "why": "built page"
-  },
-  {
     "path": "/contact",
     "expect": 200,
     "kind": "page",
@@ -37,18 +31,6 @@
   },
   {
     "path": "/insights",
-    "expect": 200,
-    "kind": "page",
-    "why": "built page"
-  },
-  {
-    "path": "/insights/cash-flow-basics",
-    "expect": 200,
-    "kind": "page",
-    "why": "built page"
-  },
-  {
-    "path": "/insights/preparing-for-year-end",
     "expect": 200,
     "kind": "page",
     "why": "built page"
@@ -84,9 +66,9 @@
     "why": "generated file"
   },
   {
-    "path": "/team",
+    "path": "/privacy",
     "expect": 200,
     "kind": "page",
-    "why": "built page"
+    "why": "imported from the old site"
   }
 ]

@@ -1,0 +1,46 @@
+# Imported from https://www.azharali.space/privacy (Craeft).
+{
+  "title": "Privacy",
+  "seo": {
+    "title": "Privacy Policy | Azhar Ali Dar",
+    "description": "Privacy Policy and data transparency statement for Azhar Ali Dar's software engineering portfolio."
+  },
+  "updatedAt": "2026-11-25",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "page",
+      "title": "Privacy Policy & Data Ethics",
+      "lead": "Privacy Policy and data transparency statement for Azhar Ali Dar's software engineering portfolio."
+    },
+    {
+      "blockType": "prose",
+      "body": "[Back to Portfolio](/)\n\nDATA TRANSPARENCY & PRIVACY\n\n\n\nLast updated: October 2026 · Operator: Azhar Ali Dar (Srinagar, Jammu & Kashmir, India)"
+    },
+    {
+      "blockType": "prose",
+      "title": "1. General Philosophy",
+      "body": "I believe personal websites should respect visitor privacy by default. This portfolio is engineered to showcase software engineering capabilities without intrusive tracking, commercial advertising, or third-party behavioral profiling."
+    },
+    {
+      "blockType": "prose",
+      "title": "2. Information Collection & Cookies",
+      "body": "This website does not use tracking cookies, commercial ad-tech pixels, or fingerprinting scripts.\n\n- Zero tracking cookies: No marketing cookies or analytics tracking IDs are written to your browser.\n\n- Local Theme Storage: Your visual preference (light or dark mode) is stored purely in client-side localStorage and is never transmitted to any external server."
+    },
+    {
+      "blockType": "prose",
+      "title": "3. Direct Communications",
+      "body": "When you contact me directly via email (email protected) or through project inquiry channels, your email address and message contents are utilized solely to evaluate project requirements and respond to your communication. Your contact details are never rented, sold, or shared with third parties."
+    },
+    {
+      "blockType": "prose",
+      "title": "4. Hosting & Server Infrastructure",
+      "body": "This site is hosted on production edge infrastructure. As part of standard web server operations, transient connection metadata (IP addresses, request headers, and timestamps) may be processed in server logs purely for DDoS protection, TLS security, and network diagnostics before being routinely purged."
+    },
+    {
+      "blockType": "prose",
+      "title": "5. Contact & Questions",
+      "body": "If you have questions regarding this privacy statement, you can reach out directly:\n\nName: Azhar Ali Dar\n\nEmail: email protected\n\nLocation: Srinagar, Jammu & Kashmir, India"
+    }
+  ]
+}

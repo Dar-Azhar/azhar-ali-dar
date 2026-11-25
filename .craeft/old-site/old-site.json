@@ -1,0 +1,21 @@
+{
+  "website": "https://www.azharali.space",
+  "readAt": "2026-11-25T07:08:52.032Z",
+  "colours": {
+    "primary": "#a07d28",
+    "accent": null
+  },
+  "fonts": {
+    "body": "Inter"
+  },
+  "photo": "https://www.azharali.space/_next/image?url=%2Fimages%2Fazhar.jpg&amp;w=3840&amp;q=75",
+  "pages": [
+    {
+      "path": "/",
+      "newPath": "/",
+      "desktop": ".craeft/old-site/home-desktop.jpg",
+      "phone": ".craeft/old-site/home-phone.jpg"
+    }
+  ],
+  "notes": []
+}
