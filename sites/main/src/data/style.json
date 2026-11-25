@@ -1,0 +1,19 @@
+{
+  "colours": {
+    "primary": "#A07D28",
+    "accent": "#A07D28"
+  },
+  "fonts": {
+    "heading": "Fraunces",
+    "body": "Inter"
+  },
+  "look": {
+    "header": "centred",
+    "corners": "soft",
+    "shadows": "none",
+    "headingWeight": "regular",
+    "eyebrow": {
+      "case": "as-written"
+    }
+  }
+}

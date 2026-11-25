@@ -1,0 +1,53 @@
+title: "Services"
+seo:
+  title: "Accounting and tax services | Azhar Ali Dar"
+  description: "Accounts, bookkeeping, tax returns, VAT and payroll from Azhar Ali Dar in Srinagar, for a fixed monthly fee agreed up front."
+updatedAt: 2026-10-19
+blocks:
+  - blockType: hero
+    title: Our services
+    lead: "Everything a small business needs from its accountant, for a fixed fee agreed before we start."
+    buttons:
+      - label: Ask for a quote
+        href: /contact
+
+  - blockType: features
+    title: What we do
+    columns: 2
+    items:
+      - icon: FileSpreadsheet
+        title: Year-end accounts
+        text: Statutory accounts prepared and filed, with a meeting to talk through what they show.
+      - icon: BookOpen
+        title: Bookkeeping
+        text: Your records kept up to date in cloud software, so you always know where you stand.
+      - icon: Receipt
+        title: Tax returns
+        text: Self assessment and corporation tax returns, prepared, checked and filed on time.
+      - icon: Percent
+        title: VAT
+        text: Registration advice and quarterly returns, filed digitally.
+      - icon: Users
+        title: Payroll
+        text: Payslips, pension contributions and the monthly submissions, done for you.
+      - icon: LineChart
+        title: Planning and advice
+        text: Cash flow forecasts and a yearly meeting to plan ahead.
+
+  - blockType: faq
+    tone: white
+    title: Questions about working with us
+    items:
+      - question: How are your fees worked out?
+        answer: We agree a fixed monthly fee based on what you need, so there are no surprise bills.
+      - question: Can you take over from my current accountant?
+        answer: Yes. We contact them for you and handle the handover.
+      - question: Do I need to use particular software?
+        answer: We work with the common cloud bookkeeping packages and can help you choose one.
+
+  - blockType: cta
+    title: Not sure what you need?
+    text: Tell us about your business and we'll suggest where to start.
+    buttons:
+      - label: Get in touch
+        href: /contact

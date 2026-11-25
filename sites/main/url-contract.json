@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  },
+  {
+    "path": "/about",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  },
+  {
+    "path": "/contact",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  },
+  {
+    "path": "/contact-us",
+    "expect": 301,
+    "to": "/contact",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/home",
+    "expect": 301,
+    "to": "/",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/index",
+    "expect": 301,
+    "to": "/",
+    "why": "redirects.ts"
+  },
+  {
+    "path": "/insights",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  },
+  {
+    "path": "/insights/cash-flow-basics",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  },
+  {
+    "path": "/insights/preparing-for-year-end",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  },
+  {
+    "path": "/llms.txt",
+    "expect": 200,
+    "kind": "file",
+    "why": "generated file"
+  },
+  {
+    "path": "/robots.txt",
+    "expect": 200,
+    "kind": "file",
+    "why": "generated file"
+  },
+  {
+    "path": "/rss.xml",
+    "expect": 200,
+    "kind": "file",
+    "why": "generated file"
+  },
+  {
+    "path": "/services",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  },
+  {
+    "path": "/sitemap.xml",
+    "expect": 200,
+    "kind": "file",
+    "why": "generated file"
+  },
+  {
+    "path": "/team",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
+  }
+]

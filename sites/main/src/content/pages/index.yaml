@@ -1,0 +1,64 @@
+title: "Home"
+seo:
+  title: "Azhar Ali Dar | Accountants in Srinagar"
+  description: "Software development and SEO"
+updatedAt: 2026-10-19
+blocks:
+  - blockType: hero
+    variant: home
+    eyebrow: "Accountants in Srinagar"
+    title: "Clear advice and accounts done on time, every time"
+    lead: "Software development and SEO"
+    buttons:
+      - label: Book a free call
+        href: /contact
+      - label: What we do
+        href: /services
+    points:
+      - A fixed monthly fee, agreed up front
+      - One named accountant who knows your business
+      - Deadlines tracked for you
+      - Replies within one working day
+
+  - blockType: features
+    eyebrow: Services
+    title: How we can help
+    lead: "Most clients start with one service and add others as the business grows."
+    items:
+      - icon: FileSpreadsheet
+        title: Accounts and bookkeeping
+        text: Year-end accounts, management accounts and tidy books you can rely on.
+        href: /services
+      - icon: Receipt
+        title: Tax returns and VAT
+        text: Self assessment, corporation tax and VAT returns, filed on time and explained.
+        href: /services
+      - icon: Users
+        title: Payroll
+        text: Payslips, pensions and the monthly submissions, handled for you.
+        href: /services
+
+  - blockType: split
+    tone: white
+    eyebrow: Our approach
+    title: Numbers you understand, and time back for your business
+    body: |
+      We explain where you stand in plain English, and we tell you about deadlines before they arrive, not after.
+
+      Every client has one accountant who knows their business, so you never have to explain things twice.
+    highlight:
+      title: Every client gets
+      items:
+        - A fixed fee, agreed in writing
+        - A named accountant
+        - Reminders before every deadline
+        - A yearly planning meeting
+
+  - blockType: posts
+    eyebrow: Insights
+    title: Recent articles
+    count: 3
+
+  # A saved section (src/content/sections/book-a-call.yaml): change it there, it changes on every page.
+  - blockType: saved
+    id: book-a-call

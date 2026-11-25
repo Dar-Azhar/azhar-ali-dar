@@ -1,0 +1,13 @@
+title: "Contact"
+seo:
+  title: "Contact Azhar Ali Dar | Book a free call"
+  description: "Get in touch with Azhar Ali Dar in Srinagar to book a free, no-obligation call about your accounts, tax or payroll."
+updatedAt: 2026-10-19
+blocks:
+  - blockType: hero
+    title: Contact us
+    lead: "Tell us a little about your business and we'll arrange a call at a time that suits you."
+
+  - blockType: contact
+    title: Send us a message
+    lead: "We reply within one working day."
