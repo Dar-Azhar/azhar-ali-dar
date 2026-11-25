@@ -70,5 +70,11 @@
     "expect": 200,
     "kind": "page",
     "why": "imported from the old site"
+  },
+  {
+    "path": "/blogs",
+    "expect": 200,
+    "kind": "page",
+    "why": "built page"
   }
 ]

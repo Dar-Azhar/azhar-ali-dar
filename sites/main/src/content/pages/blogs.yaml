@@ -1,0 +1,175 @@
+# Imported from https://www.azharali.space/services (Craeft).
+{
+  "title": "Blogs",
+  "seo": {"title": "BLOGS", "description": "read our blogs"},
+  "updatedAt": "2026-11-25",
+  "blocks":
+    [
+      {"blockType": "hero", "variant": "page", "buttons": [{"label": "Ask for a quote", "href": "/contact"}], "title": "BLOGS", "lead": "Comprehensive software engineering services: Full-Stack Web Applications, Headless Payload CMS, Technical SEO & Generative Engine Optimization (GEO), and agile sprint contracts by Azhar Ali Dar."},
+      {
+          "blockType": "prose",
+          "body": "[Back to Portfolio](/)
+
+
+            COMMERCIAL SERVICES & CONTRACTS
+
+
+
+
+            I partner with founders, tech agencies, and product teams to design, architect, and ship high-standard web software that operates predictably in production."
+        },
+      {
+          "blockType": "prose",
+          "eyebrow": "FRONTEND & FULL-STACK",
+          "title": "Full-Stack Web Application Development",
+          "body": "End-to-end production web applications engineered with Next.js 16 (App Router), React 19, TypeScript, and Tailwind CSS. Built with clean architecture, accessible components, and zero layout shift.
+
+
+            Key Deliverables:
+
+
+            - Pixel-accurate, accessible React interfaces (WCAG 2.2 compliant)
+
+
+            - Server Components (RSC) and optimized data streaming
+
+
+            - Robust state management and responsive viewports (100dvh)
+
+
+            - Automated regression testing with Playwright and Jest"
+        },
+      {
+          "blockType": "prose",
+          "eyebrow": "HEADLESS CMS ARCHITECTURE",
+          "title": "Payload CMS & Multi-Tenant Solutions",
+          "body": "Enterprise headless CMS architecture designed for flexible editorial publishing, structured document modeling in MongoDB, and high-security role-based access control.
+
+
+            Key Deliverables:
+
+
+            - Custom Payload CMS collections, globals, and custom hooks
+
+
+            - MongoDB database modeling with indexes and atomic updates
+
+
+            - Expand-Contract schema evolution with zero data loss
+
+
+            - Seamless REST and GraphQL endpoints for multi-client consumption"
+        },
+      {
+          "blockType": "prose",
+          "eyebrow": "SEO & AI VISIBILITY (GEO)",
+          "title": "Technical SEO & Generative Engine Optimization (GEO)",
+          "body": "Engineering discovery for modern search engines and AI answer engines. Structuring your web platforms so they don't just index on Google, but are actively understood, quoted, and recommended by ChatGPT, Claude, Perplexity, and Google AI Overviews.
+
+
+            Key Deliverables:
+
+
+            - Schema.org JSON-LD architecture (Entity, LocalBusiness, FAQ & Service graphs)
+
+
+            - Standardized llms.txt & crawler configurations for AI web crawlers
+
+
+            - Core Web Vitals tuning (sub-2.5s LCP, zero CLS, mobile-first indexing)
+
+
+            - Answer-engine optimization: high-intent quotable Q&A and entity disambiguation"
+        },
+      {
+          "blockType": "prose",
+          "eyebrow": "BACKEND & API ENGINEERING",
+          "title": "REST APIs & System Integrations",
+          "body": "Reliable backend microservices and RESTful API endpoints built on Node.js and Express. Fully typed with TypeScript, resilient error handling, and robust rate-limiting.
+
+
+            Key Deliverables:
+
+
+            - Type-safe API endpoints with runtime validation (Zod)
+
+
+            - JWT and OAuth2 authentication workflows
+
+
+            - Third-party CRM, payment gateway, and webhook integrations
+
+
+            - Structured JSON error envelopes and unified trace IDs"
+        },
+      {
+          "blockType": "prose",
+          "eyebrow": "Collaboration Formats",
+          "title": "How We Can Work Together",
+          "body": "Choose the commercial framework that matches your project scope and organizational timeline.
+
+
+            DIRECT HIRE
+
+
+            ### Full-Time Remote Engineering
+
+
+            Embedded into your engineering team as a dedicated Software Engineer or Full-Stack React/Next.js developer.
+
+
+            BEST SUITED FOR:
+
+
+            Tech companies, high-growth startups, and product agencies seeking long-term talent.
+
+
+            TIMELINE: Immediate / standard notice
+
+
+            SPRINT VELOCITY
+
+
+            ### Dedicated Monthly Retainer
+
+
+            Guaranteed monthly engineering capacity focused on feature shipping, architectural evolution, and ongoing sprint delivery.
+
+
+            BEST SUITED FOR:
+
+
+            Agencies and founders needing an autonomous senior-level pair of hands without payroll overhead.
+
+
+            TIMELINE: 2 to 4-week commitment blocks
+
+
+            MVP & MIGRATION
+
+
+            ### Fixed-Scope Milestone Project
+
+
+            Clearly scoped deliverables with predefined milestone reviews, acceptance criteria, and fixed commercial pricing.
+
+
+            BEST SUITED FOR:
+
+
+            New web application launches, Payload CMS setups, or platform redesigns.
+
+
+            TIMELINE: 1 to 3 weeks delivery
+
+
+            ### Ready to kick off a project?
+
+
+            Drop me an email with your project outline or role specifications to discuss deliverables and next steps.
+
+
+            [Get in Touch](/#contact)"
+        }
+    ]
+}
