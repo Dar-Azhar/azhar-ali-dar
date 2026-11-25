@@ -1,64 +1,68 @@
-title: "Home"
-seo:
-  title: "Azhar Ali Dar | Accountants in Srinagar"
-  description: "Software development and SEO"
-updatedAt: 2026-10-19
-blocks:
-  - blockType: hero
-    variant: home
-    eyebrow: "Accountants in Srinagar"
-    title: "Clear advice and accounts done on time, every time"
-    lead: "Software development and SEO"
-    buttons:
-      - label: Book a free call
-        href: /contact
-      - label: What we do
-        href: /services
-    points:
-      - A fixed monthly fee, agreed up front
-      - One named accountant who knows your business
-      - Deadlines tracked for you
-      - Replies within one working day
-
-  - blockType: features
-    eyebrow: Services
-    title: How we can help
-    lead: "Most clients start with one service and add others as the business grows."
-    items:
-      - icon: FileSpreadsheet
-        title: Accounts and bookkeeping
-        text: Year-end accounts, management accounts and tidy books you can rely on.
-        href: /services
-      - icon: Receipt
-        title: Tax returns and VAT
-        text: Self assessment, corporation tax and VAT returns, filed on time and explained.
-        href: /services
-      - icon: Users
-        title: Payroll
-        text: Payslips, pensions and the monthly submissions, handled for you.
-        href: /services
-
-  - blockType: split
-    tone: white
-    eyebrow: Our approach
-    title: Numbers you understand, and time back for your business
-    body: |
-      We explain where you stand in plain English, and we tell you about deadlines before they arrive, not after.
-
-      Every client has one accountant who knows their business, so you never have to explain things twice.
-    highlight:
-      title: Every client gets
-      items:
-        - A fixed fee, agreed in writing
-        - A named accountant
-        - Reminders before every deadline
-        - A yearly planning meeting
-
-  - blockType: posts
-    eyebrow: Insights
-    title: Recent articles
-    count: 3
-
-  # A saved section (src/content/sections/book-a-call.yaml): change it there, it changes on every page.
-  - blockType: saved
-    id: book-a-call
+# Imported from https://www.azharali.space/ (Craeft).
+{
+  "title": "AAAzhar Ali",
+  "seo": {
+    "title": "Azhar Ali Dar — Full-Stack Developer | React, Next.js & TypeScript",
+    "description": "Full-Stack Developer based in Srinagar, India. Specialising in React, Next.js, TypeScript, Node.js, and Payload CMS. Engineering high-performance web applicatio"
+  },
+  "updatedAt": "2026-11-25",
+  "blocks": [
+    {
+      "blockType": "hero",
+      "variant": "home",
+      "buttons": [
+        {
+          "label": "Book a free call",
+          "href": "/contact"
+        },
+        {
+          "label": "What we do",
+          "href": "/services"
+        }
+      ],
+      "eyebrow": "Available for engineering roles",
+      "title": "Building thoughtful web experiences and reliable software.",
+      "lead": "Full-Stack Developer based in Srinagar, India. Specialising in React, Next.js, TypeScript, Node.js, and Payload CMS. Engineering high-performance web applications and resilient digital systems."
+    },
+    {
+      "blockType": "prose",
+      "body": "I'm a full-stack developer based in Srinagar, India. I specialize in React, Next.js, and TypeScript, engineering client-facing digital products, scalable CMS architectures, and robust internal tooling.\n\nSrinagar, Jammu & Kashmir, India\n\nExplore selected work\n\nDownload résumé\n\nCore: Next.js 16 (App Router) React 19 TypeScript Payload CMS\n\n+ + + +\n\n![Azhar Ali Dar — Full-Stack Developer](https://www.azharali.space/_next/image?url=%2Fimages%2Fazhar.jpg&amp;w=3840&amp;q=75)\n\nAzhar Ali Dar\n\nSrinagar, IN\n\n[ENG · FULL-STACK] CYBER SPARK IT SERVICES LTD"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Selected Work",
+      "title": "Production Platforms & Systems",
+      "body": "Full-stack portals, multilingual brand websites, and operations tooling engineered with Next.js, Payload CMS, and TypeScript.\n\nProject case studies are currently being updated."
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Capabilities",
+      "title": "Technical Stack & Core Competencies",
+      "body": "Technologies, libraries, and workflows I work with daily to engineer resilient full-stack systems. No arbitrary progress bars — only verified tools and real production experience.\n\nFrontend 6 techs\n\nModern component-driven development with a focus on type safety, performance, and accessibility.\n\n### React\n\nReact 19, Server & Client Components\n\n### Next.js\n\nApp Router, SSR, SSG, Turbopack\n\n### TypeScript\n\nStrict Mode, Advanced Types, Generics\n\n### JavaScript\n\nESNext, Async/Await, Web APIs\n\n### Tailwind CSS\n\nTailwind v4, Custom Design Tokens\n\n### HTML5 & CSS3\n\nSemantic HTML, Responsive Layouts\n\nBackend and CMS 5 techs\n\nReliable API endpoints, scalable content management, and robust data storage.\n\n### Node.js\n\nRuntime, Event Loop, Server Architecture\n\n### Express\n\nRESTful APIs, Middleware, Validation\n\n### Payload CMS\n\nHeadless CMS, Collection Modeling\n\n### REST APIs\n\nAPI Contracts, Auth, Error Responses\n\n### MongoDB\n\nMongoose, Aggregations, Document Schemas\n\nTesting 4 techs\n\nAutomated regression prevention and behavioral verification across user journeys.\n\n### Playwright\n\nE2E Testing, Cross-Browser Automation\n\n### Jest\n\nUnit & Integration Testing, Mocking\n\n### End-to-End Testing\n\nUser Workflows, Visual Verification\n\n### Integration Testing\n\nAPI & Component Interaction Checks\n\nTools and workflows 6 techs\n\nEngineering hygiene, monorepo architecture, and production delivery pipelines.\n\n### Git\n\nAtomic Commits, Feature Branching\n\n### GitHub\n\nPull Requests, Code Review, CI Actions\n\n### Nx Monorepos\n\nShared Packages, Workspace Caching\n\n### ESLint\n\nStatic Analysis, Code Quality Standards\n\n### SEO & Web Vitals\n\nMetadata, Lighthouse, CWV Optimisation\n\n### i18n & Localization\n\nMulti-language Routing & Schemas\n\n+ ENGINEERING DISCIPLINE\n\nTypeScript Strict Mode Zero Unhandled Errors Web Vitals Budget Expand-Contract Schema Evolution"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Professional Journey",
+      "title": "Engineering Experience",
+      "body": "Hands-on software development across internal agency tooling, shared monorepo components, production client rollouts, and automated test pipelines.\n\n![CYBER SPARK IT SERVICES LTD logo](https://www.azharali.space/_next/image?url=%2Fimages%2Fcyberspark-logo.png&amp;w=96&amp;q=75)\n\n### Junior Software Developer\n\nFull-Time Role Active\n\nCYBER SPARK IT SERVICES LTD\n\nJun 2025 – Present London, UK · Remote\n\nEngineering shared enterprise CMS architecture (SparkCMS), client-facing web applications, and automated test pipelines within an agile remote product team.\n\nCore Contributions & Scope:\n\n- Contribute to SparkCMS — a shared internal enterprise platform built on Payload CMS — engineering reusable component libraries deployed across multiple client projects.\n\n- Architected and deployed client-facing web applications including Dunes & Bricks and Sissi & Fiona end-to-end with high Web Vitals standards.\n\n- Support continuous development, on-page SEO enhancements, and Core Web Vitals optimizations on Cyber Spark UK and India corporate portals.\n\n- Engineered full-stack features for Manedu CRM including lead pipelines, commission management, and operational dashboards.\n\n- Authored and maintain automated test suites with Playwright and Jest to prevent production regressions.\n\nTechnologies: Next.js React.js TypeScript Payload CMS MongoDB\n\n![CYBER SPARK IT SERVICES LTD logo](https://www.azharali.space/_next/image?url=%2Fimages%2Fcyberspark-logo.png&amp;w=96&amp;q=75)\n\n### Full Stack Developer\n\nCYBER SPARK IT SERVICES LTD\n\nMar 2025 – May 2025 London, UK · Remote\n\nCompleted an intensive engineering internship delivering full-stack application features, responsive React interfaces, and backend REST APIs.\n\nCore Contributions & Scope:\n\n- Built full-stack application features utilizing React, Next.js, Node.js, Express, and MongoDB.\n\n- Designed and documented RESTful API endpoints with structured request validation and error handling.\n\n- Deepened proficiency with TypeScript strict mode, responsive styling, and modern Git workflows in production sprints.\n\nTechnologies: Next.js React.js Node.js Express REST APIs"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "About & Approach",
+      "title": "Engineering Philosophy & Background",
+      "body": "I view software engineering as the discipline of turning messy real-world workflows into clean, reliable digital experiences that operate predictably in production.\n\n### Full-Stack Autonomy\n\nFrom database schema design and API modeling to pixel-accurate, accessible React interfaces.\n\n### Clean & Maintainable Code\n\nWriting self-documenting TypeScript, adhering to Expand-Contract data patterns, and enforcing strict type safety.\n\n### Testing & Verification\n\nAutomated end-to-end and regression testing with Playwright and Jest rather than hoping things work.\n\n### Performance by Default\n\nZero unnecessary layout shifts, responsive viewports, optimized asset loading, and high-standard Web Vitals.\n\n![Full-Stack Developer: One person, 47 tabs — illustrated workspace of Azhar Ali Dar](https://www.azharali.space/_next/image?url=%2Fimages%2Fdeveloper-desk.jpg&amp;w=3840&amp;q=75)\n\nI'm a full-stack developer based in Srinagar, Jammu & Kashmir. I currently work as a Junior Software Developer at Cyber Spark IT Services Ltd, where I contribute to client platforms, internal tools, and a shared enterprise CMS built on Payload CMS.\n\nMy day-to-day spans modern frontend engineering with React 19 and Next.js, backend REST API development with Node.js and Express, schema design in MongoDB, rigorous testing with Playwright and Jest, and search engine optimization.\n\nI care about writing clean, maintainable, resilient code and building interfaces that feel fast, deliberate, and effortless to use. I'm actively seeking software engineering opportunities where I can solve complex problems and contribute to high-standard products.\n\nLOCATION: SRINAGAR, INDIA STATUS: OPEN TO REMOTE ROLES"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "CLIENTS & ENGAGEMENT",
+      "title": "Frequently Asked Questions",
+      "body": "Direct details regarding commercial availability, engagement formats, typical turnaround timelines, and engineering specializations.\n\nWhat engineering services and technology stack do you specialize in?\n\nI specialize in modern full-stack engineering with React 19, Next.js 16 (App Router), TypeScript, Payload CMS, Node.js, Express, and MongoDB. I engineer performant web applications, custom headless CMS architectures, REST APIs, and Technical SEO & Generative Engine Optimization (GEO) so platforms rank on Google and get cited by AI answer engines.\n\nHow do you structure client engagements and freelance contracts?\n\nWhat is your typical project delivery timeline?\n\nWhere are you based and how do you collaborate across global time zones?\n\nHAVE A PROJECT OR OPEN ROLE?\n\nExplore the full services directory or reach out directly to schedule a technical discovery call.\n\n[View Services](/services) [Start a Conversation](/#contact)"
+    },
+    {
+      "blockType": "prose",
+      "eyebrow": "Contact",
+      "title": "Let's build something great together",
+      "body": "Have a project in mind, need help with development, or looking to hire? Fill out the form or write to me directly.\n\nemail protected\n\nWrite\n\nReplies within 24 hours\n\n### GitHub\n\ndar-Azhar\n\n### LinkedIn\n\nazhar-ali-dar\n\n### Send a Message\n\nI'll get back to you within 24 hours."
+    }
+  ]
+}

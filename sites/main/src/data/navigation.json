@@ -1,26 +1,34 @@
 {
   "items": [
-    { "label": "Services", "href": "/services" },
-    { "label": "About", "href": "/about" },
-    { "label": "Team", "href": "/team" },
-    { "label": "Insights", "href": "/insights" },
-    { "label": "Contact", "href": "/contact" }
-  ],
-  "cta": { "label": "Book a call", "href": "/contact" },
-  "footer": [
     {
-      "title": "Services",
-      "links": [
-        { "label": "Accounts and tax", "href": "/services" },
-        { "label": "Insights", "href": "/insights" }
-      ]
+      "label": "Services",
+      "href": "/services"
     },
     {
-      "title": "Firm",
+      "label": "Insights",
+      "href": "/insights"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "cta": {
+    "label": "Book a call",
+    "href": "/contact"
+  },
+  "footer": [
+    {
+      "title": "Pages",
       "links": [
-        { "label": "About us", "href": "/about" },
-        { "label": "Our team", "href": "/team" },
-        { "label": "Contact", "href": "/contact" }
+        {
+          "label": "Services",
+          "href": "/services"
+        },
+        {
+          "label": "Privacy",
+          "href": "/privacy"
+        }
       ]
     }
   ]
